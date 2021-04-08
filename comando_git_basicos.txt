@@ -1,0 +1,6 @@
+1. primero comando: # ruta del repositori remoto
+git clone https://github.com/dojopy/DojopyTallerLunes.git
+
+2. git add -A
+3. git commit -m 'nombre de la version o referencia del cambio hecho'
+4. git push origin master
