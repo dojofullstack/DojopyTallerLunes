@@ -1,0 +1,7 @@
+print("hello world")
+print(97)
+print(["google", 56, True])
+print(True)
+print({"name": "henry", "edad": "25"})
+print({1,2,3,3})
+print((False, 12))
